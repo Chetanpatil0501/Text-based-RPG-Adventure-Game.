@@ -1,2 +1,3 @@
 # Text-based-RPG-Adventure-Game.
 This is a text based RPG game created with C++. It's fun to play it with reading a story I wrote the story very intresting. Try it once...
+hello this is editor branch
